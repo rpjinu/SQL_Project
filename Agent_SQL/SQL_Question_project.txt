@@ -1,0 +1,62 @@
+Ankush is the head of the agent association. He is monitoring all the commission activities carried out by the agents. He stored all these records in a database named ”newdb”. One day he thought about analyzing all the records. So he wanted to know which agent earned the highest commission. He also wanted to know the top five records. To answer all these questions he needed to perform SQL operations.
+ 
+Problem Statement
+ 
+Ankush wanted to analyze the data by row and column wise also.  He also thought to modify the records by adding, deleting and updating them. He wanted to answer some of the questions by applying some clauses. All these can be solved by using SQL commands easily.
+ 
+Example Dataset
+ 
+Below is the example data which can be created using SQL commands and all the operations can be done on that data. 
+ 
+ 
+Case Study Questions
+
+1. Create an agent commission table which includes the following columns.
+Agent Code
+Agent First Name and Last Name
+Working Area(City)
+Commission
+Mobile No.
+2. Create a table of customer details which includes the following columns.
+Customer ID
+Customer Name
+Customer City
+Agent code
+Order Date
+3. Insert records in both tables.
+4. Display the output where the city is Delhi from the Agent Commission table.
+5. Display output where the commission of the agent is greater than 15000.
+6. Give the output columns where the city is Mumbai.
+7. Display the output by a specified agent code 4.
+8. Show the output by ordering the First name in the agent commission table.
+9. Display the limited number of rows in output using LIMIT.
+10. Count and show the number of cities in the agent commission table.
+11. Show the agent details of who is getting a minimum commission.
+12. Display the total amount of commission by using SUM.
+13. Show the average commission of agents.
+14. Group the rows by city and count the agent code in the agent commission table.
+15. Convert mobile no into Integer from agent commission table using CAST function.
+16. Display the Output where the order date is greater than 2010-01-01 from the customer details table.
+17. Concat the First name and Last name of the agent commission table.
+18. Create a histogram of the commission column by creating a bin and ordering the output by agent code.
+19. Replace the city Chandigarh with Haryana in the agent commission table.
+20. Create the sample table Orders with columns OrderID, OrderNumber, and PersonID.
+21. Assign Primary Key and Foreign key.
+22. Perform left join operation on Agent commission and Customer details table.
+23. Perform Right join and Inner join operations on Agent commission and Customer details table.
+24. Perform Union clause on  Agent commission and Customer details table.
+25. Use the CASE function to show the details of agents with a commission greater than 12000 and agent code 1 from the agent commission table.
+26. Display the output of the commission which has the count 1.
+27. Perform the window function using OVER, PARTITION BY and ROW_NUMBER on the agent commission table.
+28. Generate a unique rank for each row in a table based on the specified value.
+Find out Matching String 
+Find out the match of the beginning of the string.
+Match zero or one instance of the strings preceding.
+Matches any of the patterns
+29. Create a temporary table sales sum with columns product_namr, total_sales, avg_unit_price and   total_units_sold and insert values into it.
+30. Show the details of the agent commission whose city is Delhi using VIEW.
+31. Create an index from the agent commission table using the city and First name.
+
+Next Steps
+ Create multiple tables for storing the data.
+Carefully perform the operations on multiple tables.
