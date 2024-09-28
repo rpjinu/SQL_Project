@@ -1,0 +1,18 @@
+1.Who is the senior most employee on job title?
+2.which countries most invoices?
+3.what are the top 3 value of total_invice?
+4.which city has best customer?,we would like to throw professional music festival made most money?
+5.who is the best customer? the customer spent most amount of money.
+6.write query return email,full name,gerne all rocks music listener return list in alphabetical order A
+7.let's invite the artist artist who has most number of rock music,write query artist name,total rock count top 10 band
+
+8.return all track name have song length longer then average song length.return the name and millisecond for each track.order by song length with the logest song listed first
+9.find how much amount spent by each customer on artists?
+    ,write a query to return customer name,artist name and total spent.
+
+10.We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. 
+Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres. 
+
+11.Write a query that determines the customer that has spent the most on music for each country.
+ Write a query that returns the country along with the top customer and how much they spent. 
+For countries where the top amount spent is shared, provide all customers who spent this amount.
